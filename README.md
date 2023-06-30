@@ -1,1 +1,2 @@
-how to be up-to-date in git
+hi
+my readme is up to date
